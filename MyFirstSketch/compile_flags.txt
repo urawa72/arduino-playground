@@ -1,0 +1,4 @@
+-I/home/urawa72/arduino-1.8.13/hardware/arduino/avr/cores/arduino
+-I/home/urawa72/arduino-1.8.13/hardware/arduino/avr/variants/standard
+-I/home/urawa72/arduino-1.8.13/hardware/tools/avr/avr/include
+-I/home/urawa72/arduino-1.8.13/hardware/tools/avr/lib/gcc/avr/include
